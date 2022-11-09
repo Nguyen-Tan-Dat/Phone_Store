@@ -40,6 +40,7 @@
     <link rel="stylesheet" href="{{asset("")}}assets/css/taikhoan.css">
     <link rel="stylesheet" href="{{asset("")}}assets/css/gioHang.css">
     <link rel="stylesheet" href="{{asset("")}}assets/css/footer.css">
+    <link rel="stylesheet" href="{{asset("")}}assets/css/icon.css">
     <!-- js -->
     <script src="{{asset("")}}assets/js/dungchung.js"></script>
     <script src="{{asset("")}}assets/js/giohang.js"></script>

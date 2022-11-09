@@ -1,0 +1,11 @@
+.social-top-nav .fa {
+  color: white !important;
+}
+
+.social-top-nav * + * {
+  padding-left: 16px !important;
+}
+
+.top-nav-quicklink a:hover {
+  text-decoration: none;
+}

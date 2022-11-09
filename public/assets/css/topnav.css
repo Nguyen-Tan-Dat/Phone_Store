@@ -48,6 +48,7 @@
 /* Quick link */
 .top-nav-quicklink {
     float: right;
+    margin-bottom: 0;
 }
 
 .top-nav-quicklink li {

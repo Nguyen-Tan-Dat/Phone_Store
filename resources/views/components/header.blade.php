@@ -146,6 +146,3 @@
         </div><!-- tab-content -->
     </div> <!-- /taikhoan -->
 </div>
-<script>
-    checkTaiKhoan();
-</script>
